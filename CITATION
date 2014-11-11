@@ -1,0 +1,15 @@
+To reference this data/software in publications, please cite the following:
+
+1. Whisson SC, Boevink PC, Moleleki L, Avrova AO, Morales JG, Gilroy EM, Armstrong MR, Grouffaud S, van West P, Chapman S, Hein I, Toth IK, Pritchard L, Birch PRJ. 2007. A translocation signal for delivery of oomycete effector proteins into host plant cells. Nature 450:115–118.
+
+@article{Whisson:2007jq,
+author = {Whisson, Stephen C and Boevink, Petra C and Moleleki, Lucy and Avrova, Anna O and Morales, Juan G and Gilroy, Eleanor M and Armstrong, Miles R and Grouffaud, Severine and van West, Pieter and Chapman, Sean and Hein, Ingo and Toth, Ian K and Pritchard, Leighton and Birch, Paul R J},
+title = {{A translocation signal for delivery of oomycete effector proteins into host plant cells.}},
+journal = {Nature},
+year = {2007},
+volume = {450},
+number = {7166},
+pages = {115--118},
+month = nov
+}
+
